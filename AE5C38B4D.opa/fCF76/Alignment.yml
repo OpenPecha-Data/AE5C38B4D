@@ -1,0 +1,19 @@
+segment_sources:
+  I79D60080:
+    type: origin_type
+    relation: translation
+    language: en
+  IEE291C52:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ee65dcd1e8ce4b03933c7d2fa7064caf:
+    I79D60080: 934b288edbd9499f92d01937e96dc0f4
+    IEE291C52: f7cfa9dfc968431991ccf2ca08f62d64
+  d11c2942cb8b450bb42b163b26ad61e8:
+    I79D60080: 4c5e94fceca34be7858d59b0fd053d82
+    IEE291C52: 68321a6bed46455ab0c6e592b54362e0
+  9bf56dc4546b4f6aacb2b94f163f2f0c:
+    I79D60080: f7cfc40a11b741f190b8c7f38a811c79
+    IEE291C52: c0be186e095948f09282e2ca4810f395
